@@ -2,7 +2,7 @@
 
 
 
-[![Cricut.com/setup](#)](#)
+[![Cricut.com/setup](getstarted.png)](#)
 
 If you require an upgraded version of your Cricut software, go to cricut.com/setup Here, you will find the required Cricut tools and gadgets to work with. Now, if you have just bought your Cricut machine and need assistance to set it up properly, follow through with the guide below. Here, we have brought the procedure to set up your machine and Design Space software within steps.
 
