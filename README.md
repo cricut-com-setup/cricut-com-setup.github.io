@@ -1,7 +1,6 @@
 # Cricut.com/setup
 
 
-title: Cricut Cutting Machine | Set Up a Cricut Device
 
 [![Cricut.com/setup](#)](#)
 
